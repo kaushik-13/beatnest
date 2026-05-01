@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "title": "Midnight Dreams",
+    "artist": "Luna Echo",
+    "category": "Romantic",
+    "duration": 215,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=Midnight+Dreams"
+  },
+  {
+    "id": "2",
+    "title": "Electric Vibes",
+    "artist": "Neon Pulse",
+    "category": "Party",
+    "duration": 198,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=Electric+Vibes"
+  },
+  {
+    "id": "3",
+    "title": "Retro Waves",
+    "artist": "Synthwave Kings",
+    "category": "Retro",
+    "duration": 225,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=Retro+Waves"
+  },
+  {
+    "id": "4",
+    "title": "Chill Sunset",
+    "artist": "Ambient Minds",
+    "category": "Chill",
+    "duration": 240,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=Chill+Sunset"
+  },
+  {
+    "id": "5",
+    "title": "Workout Pump",
+    "artist": "Fitness Beats",
+    "category": "Workout",
+    "duration": 210,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=Workout+Pump"
+  },
+  {
+    "id": "6",
+    "title": "Focus Flow",
+    "artist": "Study Vibes",
+    "category": "Focus",
+    "duration": 300,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=Focus+Flow"
+  },
+  {
+    "id": "7",
+    "title": "Lovers Lane",
+    "artist": "Heart Strings",
+    "category": "Romantic",
+    "duration": 235,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=Lovers+Lane"
+  },
+  {
+    "id": "8",
+    "title": "Dance Tonight",
+    "artist": "Groove Masters",
+    "category": "Party",
+    "duration": 205,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=Dance+Tonight"
+  },
+  {
+    "id": "9",
+    "title": "80s Highway",
+    "artist": "Time Travelers",
+    "category": "Retro",
+    "duration": 245,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-9.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=80s+Highway"
+  },
+  {
+    "id": "10",
+    "title": "Peaceful Waves",
+    "artist": "Ocean Sounds",
+    "category": "Chill",
+    "duration": 320,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-10.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=Peaceful+Waves"
+  },
+  {
+    "id": "11",
+    "title": "Energy Rush",
+    "artist": "Power Athletes",
+    "category": "Workout",
+    "duration": 215,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-11.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=Energy+Rush"
+  },
+  {
+    "id": "12",
+    "title": "Deep Concentration",
+    "artist": "Mindful Music",
+    "category": "Focus",
+    "duration": 480,
+    "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-12.mp3",
+    "thumbnail": "https://via.placeholder.com/150?text=Deep+Concentration"
+  }
+]

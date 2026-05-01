@@ -1,0 +1,10 @@
+[
+  {
+    "id": "demo-user",
+    "name": "Aarav",
+    "email": "aarav@beatnest.in",
+    "password": "$2a$10$FTJ6UUU/9Xq5L0hpOJxNkOG32E7WLKUMNcEfQSr3syGcyHRvvZq4.",
+    "subscription": "free",
+    "createdAt": "2026-04-30T00:00:00.000Z"
+  }
+]

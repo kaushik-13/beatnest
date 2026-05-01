@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply box-border;
+}
+
+body {
+  @apply bg-spotify-black text-spotify-textPrimary;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  min-width: 320px;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+button {
+  @apply focus:outline-none focus-visible:ring-2 focus-visible:ring-spotify-darkGreen focus-visible:ring-offset-2 focus-visible:ring-offset-spotify-black;
+}
+
+.app-surface {
+  background:
+    radial-gradient(circle at top left, rgba(49, 233, 129, 0.22), transparent 34rem),
+    radial-gradient(circle at 80% 8%, rgba(64, 217, 255, 0.16), transparent 30rem),
+    linear-gradient(135deg, #07080d 0%, #10141f 48%, #090a10 100%);
+}
+
+.glass-panel {
+  @apply border border-white/10 bg-white/[0.06] shadow-2xl shadow-black/20 backdrop-blur-xl;
+}
+
+.range-modern {
+  @apply h-1.5 cursor-pointer appearance-none rounded-full bg-white/10 accent-spotify-darkGreen;
+}
+
+.range-modern::-webkit-slider-thumb {
+  @apply h-4 w-4 appearance-none rounded-full border-2 border-spotify-black bg-spotify-darkGreen shadow-lg shadow-spotify-darkGreen/30;
+}
+
+.range-modern::-moz-range-thumb {
+  @apply h-4 w-4 rounded-full border-2 border-spotify-black bg-spotify-darkGreen shadow-lg shadow-spotify-darkGreen/30;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.18);
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.28);
+}
